@@ -1,5 +1,5 @@
 # pure-content
-A place to keep track of some "pure content" ideas/ideals 
+A place to keep track of some "pure content" ideas/ideals. As this evolves the goal is that we have standard ideas that can be applied to anything; as well the the conceptual foundation for a *PureContent* creation tool that would allow adding metadata to other content (so as to help make it more pure and resuable) as well as creating new pure content from scratch
 
 ## What is "PureContent?"
 
